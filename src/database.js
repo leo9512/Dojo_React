@@ -1,0 +1,15 @@
+export default[
+  {codigo: 1, nombre: 'Pedro Perez'},
+  {codigo: 2, nombre: 'Juan Rodriguez'},
+  {codigo: 3, nombre: 'Alexander Perez'},
+  {codigo: 4, nombre: 'Sebastian Lima'},
+  {codigo: 5, nombre: 'Hola Holitas'},
+  {codigo: 6, nombre: 'Juanita Perez'},
+  {codigo: 7, nombre: 'Fulanito Detal'},
+  {codigo: 8, nombre: 'Tal Cual'},
+  {codigo: 9, nombre: 'Caifi Sello'},
+  {codigo: 10, nombre: 'Maximiliano Marin'},
+  {codigo: 11, nombre: 'Quien Donde'},
+  {codigo: 12, nombre: 'Alonso Jimenez'},
+  {codigo: 13, nombre: 'Claudia Bustamante'},
+]
